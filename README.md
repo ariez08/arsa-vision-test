@@ -24,3 +24,7 @@ How can the colors of traffic lights be identified solely using the HSV method w
 
 3. **Traffic Light Localization**  
    The system currently uses hardcoded ROI (Region of Interest) coordinates to identify traffic lights. This approach is less effective when the camera is not stationary. Implementing algorithms that can dynamically track traffic lights would make the system more flexible and capable of handling a broader range of conditions.
+
+## Input and Output
+### Input: [Link](https://drive.google.com/file/d/1-SKPkE74Xq8BtRSePhprVGyY2TUbi3in/view?usp=sharing)
+### Output: [Link](https://drive.google.com/file/d/1-mEzTlYOO3tCcXRRk1kyzRQQUp62e42k/view?usp=sharing)
